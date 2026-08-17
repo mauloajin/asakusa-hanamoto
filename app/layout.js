@@ -20,6 +20,9 @@ export const metadata = {
     title: '浅草 花本｜初音小路の居酒屋',
     description: 'もつ鍋・三崎直送まぐろ・湘南しらす、営業時間、予約、アクセスのご案内。',
   },
+  verification: {
+    google: 'ayHXvvh7MAYyEd0yabm5xYrI98qeN_1bfcLkvUPkbrM',
+  },
   robots: { index: true, follow: true },
 };
 
